@@ -64,8 +64,6 @@ function init() {
 }
 
 // Function call to initialize app
-init(fileName, data);
-    inquirer
-        .prompt(questions)
-        .then((Initial.answers))
+init()
+    
 

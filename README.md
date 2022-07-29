@@ -1,8 +1,8 @@
-# f
+# README.Creator
 
   ## Description
 
-  f
+  A command line application that creates a professional README file for the user
 
   ## Table Of Contents
 
@@ -14,5 +14,5 @@
 
   - [Licensing](#license)
 
-  - [FAQ](#faq)
+  - [Questions](#questions)
 
